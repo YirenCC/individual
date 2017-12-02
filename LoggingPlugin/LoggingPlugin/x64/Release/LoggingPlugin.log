@@ -1,0 +1,9 @@
+﻿  Wrapper.cpp
+     Creating library C:\Users\100539372\Desktop\OGknuckles-assignment_1-bd7fa5098afe\LoggingPlugin\LoggingPlugin\x64\Release\LoggingPlugin.lib and object C:\Users\100539372\Desktop\OGknuckles-assignment_1-bd7fa5098afe\LoggingPlugin\LoggingPlugin\x64\Release\LoggingPlugin.exp
+  Generating code
+  1 of 175 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  LoggingPlugin.vcxproj -> C:\Users\100539372\Desktop\OGknuckles-assignment_1-bd7fa5098afe\LoggingPlugin\LoggingPlugin\x64\Release\LoggingPlugin.dll
+  LoggingPlugin.vcxproj -> C:\Users\100539372\Desktop\OGknuckles-assignment_1-bd7fa5098afe\LoggingPlugin\LoggingPlugin\x64\Release\LoggingPlugin.pdb (Full PDB)

@@ -1,0 +1,11 @@
+syntax: glob
+*.sln
+*.csproj
+*.userprefs
+obj/
+Library/
+*.suo
+*.exe
+*.sdf
+Debug/*
+Release/*
